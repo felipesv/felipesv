@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/felipesv/felipesv/blob/master/resume.png"></p>
 
 <p align="center">
-	<a href=" www.linkedin.com/in/felipesatizabal">
+	<a href="www.linkedin.com/in/felipesatizabal">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a href="https://github.com/felipesv">
